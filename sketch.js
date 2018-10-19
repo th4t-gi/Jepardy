@@ -1,5 +1,5 @@
 function setup() {
-  // put setup code here
+  console.log("hi there")
 }
 
 function draw() {
